@@ -1,1 +1,1 @@
-char randChar();
+char randchar();
